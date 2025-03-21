@@ -1,0 +1,9 @@
+.git/
+README.md
+LICENSE
+*.gif
+*.jpg
+*.png
+*.css
+*.js
+index.html
