@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "swagweb",
   "scripts": {
+    "build": "echo 'no build step needed ig'", 
     "deploy": "npx deploy-to-neocities ./"
   },
   "dependencies": {},
